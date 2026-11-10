@@ -1,6 +1,6 @@
-# CardioVision AI: Machine Learning Microproject (Modules 2 & 4)
+# CardioVision AI: Machine Learning Microproject
 
-An integrated machine-learning application for **Cardiovascular Disease Risk Stratification (Module 2)** and **Chest Radiograph Image Recognition (Module 4)** built with Python, scikit-learn, Keras 3, PyTorch, and Streamlit.
+An integrated machine-learning application for **Cardiovascular Disease Risk Stratification** and **Chest Radiograph Image Recognition** built with Python, scikit-learn, Keras 3, PyTorch, and Streamlit.
 
 ---
 
@@ -62,5 +62,4 @@ D:\Data Science\
 
 ---
 
-## 🔒 Storage & C-Drive Protection
-As requested, all caches, virtual environments, downloaded wheels, and temporary build files are isolated strictly to `D:\Data Science`, keeping the primary `C:` drive untouched.
+
