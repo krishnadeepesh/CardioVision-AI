@@ -1,7 +1,10 @@
 # Virtual Environment & Package Caches
 venv/
+env/
+ENV/
 .pip_cache/
 .tmp/
+.cache/
 .keras/
 .torch/
 .huggingface/
@@ -12,9 +15,30 @@ __pycache__/
 *$py.class
 *.pytest_cache/
 
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Streamlit runtime & credentials
+.streamlit/
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+
+# Build & packaging artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
 # OS and Editor metadata
 .DS_Store
 Thumbs.db
+desktop.ini
 .vscode/
 .idea/
+*.swp
+*.swo
 *.log
